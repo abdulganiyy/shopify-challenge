@@ -1,0 +1,13 @@
+.home {
+  width: 100%;
+}
+
+.spinner {
+  margin-top: 15%;
+}
+
+@media (min-width: 1200px) {
+  .home {
+    width: 20%;
+  }
+}
